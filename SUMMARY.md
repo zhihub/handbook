@@ -1,7 +1,5 @@
 # Summary
 
 * [HTML / CSS](README.md)
-  * [HTML](html/README.md.md)
-
-
+  * [HTML](HTML - CSS/HTML/README.md)
 
