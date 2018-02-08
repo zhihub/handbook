@@ -37,13 +37,13 @@ HTML 链接是通过 `<a>` 标签进行定义的。
 <a href="https://zhihub.gitbooks.io/handbook/">This is a link</a>
 ```
 
-**注释：**在 href 属性中指定链接的地址。
+**注释：**在 `href` 属性中指定链接的地址。
 
 （您将在本教程稍后的章节中学习更多有关属性的知识）。
 
 ---
 ### HTML 图像
-HTML 图像是通过 <img> 标签进行定义的。
+HTML 图像是通过 `<img>` 标签进行定义的。
 
 **实例：**
 ```html
