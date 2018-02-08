@@ -16,6 +16,8 @@ HTML 标题（Heading）是通过 `<h1> - <h6>` 等标签进行定义的。
 <h2>This is a heading</h2>
 <h3>This is a heading</h3>
 ```
+
+---
 ### HTML 段落
 HTML 段落是通过 `<p>` 标签进行定义的。
 
@@ -23,4 +25,14 @@ HTML 段落是通过 `<p>` 标签进行定义的。
 ```html
 <p>This is a paragraph.</p>
 <p>This is another paragraph.</p>
+```
+
+---
+
+### HTML 链接
+HTML 链接是通过 `<a>` 标签进行定义的。
+
+**实例:**
+```html
+<a href="https://zhihub.gitbooks.io/handbook/">This is a link</a>
 ```
